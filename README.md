@@ -34,6 +34,15 @@ This project aims to:
 - Clean and interactive design
 
 ---
+## Live Demo : https://celebalcustomerchurnpredition-app-app-9bum2c8jcfuvwwjxm9ppuy.streamlit.app/
+
+---
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/9ada7865-65c7-4128-be7b-0020a96a2d66" />
+
+
+<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/aa4b8a2f-c11d-4aa6-af7e-4dbd107c6dfc" />
+
+---
 
 ## 🖥️ How to Run Locally
 
@@ -43,3 +52,6 @@ pip install -r requirements.txt
 
 # 2. Run the Streamlit app
 streamlit run app.py
+
+
+
